@@ -1,6 +1,6 @@
 # Investigating the Quantum Signatures of Active Time's Generative Faculty
 
-
+Dr. Maher Abdelsamie<br>maherabdelsamie@gmail.com<br>
 
 ## Run on Google Colab
 
